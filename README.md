@@ -4,7 +4,8 @@
 
 Este é o repositório do meu portfólio pessoal, um site minimalista e focado em apresentar minhas habilidades, projetos e informações de contato. A inspiração para o design veio do tema escuro e elegante do Visual Studio Code, um dos meus editores de código favoritos.
 
-**Link para o Site:** [https://uguisousa.github.io/VsCode-Portfolio/](https://uguisousa.github.io/VsCode-Portfolio/)
+**Link para o Site:** [https://vscodeport.netlify.app/](https://vscodeport.netlify.app/)
+<img src=""></img>
 
 ## Visão Geral
 
@@ -12,8 +13,7 @@ O site é construído utilizando HTML para a estrutura e CSS para o estilo, busc
 
 ## Conteúdo Principal
 
-* **Foto de Perfil:** Apresenta minha foto de perfil do GitHub no centro da página.
-* **Links de Contato:** Ícones clicáveis que direcionam para minhas principais plataformas online, como GitHub. Ao passar o mouse, o ícone muda para a cor amarela.
+* **Links de Contato:** Ícones clicáveis que direcionam para minhas principais plataformas online, como GitHub. Ao passar o mouse, o ícone muda de cor.
 * **Fundo:** Um fundo escuro que remete ao tema do Visual Studio Code, com um efeito sutil de flechas brancas se movendo horizontalmente.
 * **Seção "Sobre Mim":** Uma descrição sobre minha paixão por tecnologia, minha formação acadêmica (Análise e Desenvolvimento de Sistemas), minhas experiências com desenvolvimento web (HTML, CSS), desenvolvimento Android (Kotlin), interesse em UX/UI e meus hobbies.
 
@@ -41,15 +41,12 @@ Para visualizar localmente:
 
 ## Personalização
 
-* **Foto de Perfil:** A foto de perfil é carregada diretamente do seu GitHub. Para alterar a foto, basta atualizar sua foto de perfil no GitHub.
-* **Links de Contato:** Os links para suas plataformas online podem ser alterados diretamente no código HTML, na seção da classe `.list-icons`. Atualize os atributos `href` das tags `<a>`.
-* **Ícones:** O ícone do GitHub é do Icons8. Você pode substituir o URL do atributo `src` na tag `<img>` por outros de sua preferência.
-* **Fundo:** O estilo do fundo e a animação das flechas estão definidos dentro da tag `<style>` no `index.html`. Você pode modificar as propriedades CSS da classe `.section-com-setas` e da animação `@keyframes moverSetas` para personalizar o efeito.
-* **Seção "Sobre Mim":** O texto da seção "Sobre mim" está dentro da `div` com a classe `.sobre-` no `index.html` e pode ser editado conforme suas informações e preferências.
-
+* **Links de Contato:** Os links para suas plataformas online podem ser alterados diretamente no código HTML, na seção da classe `.othe`(index.html). Atualize os atributos `href` das tags `<a>`.
+* **Seção "Sobre Mim":** O texto da seção "Sobre mim" está dentro da `div` com a classe `.sobre-` no `sobre.html` e pode ser editado conforme suas informações e preferências.
+* **Seção "Projetos":** Você pode alterar os projetos, que estão localizados no id `pj`(projeto.html)
+* 
 ## Próximos Passos (Opcional)
 
-* Adicionar uma seção de projetos com links e descrições.
 * Implementar uma seção de contato com um formulário (utilizando alguma plataforma de envio de formulários ou um backend).
 * Otimizar ainda mais a responsividade para diferentes tamanhos de tela.
 * Explorar outras estilizações visuais com CSS para aprimorar o tema do VS Code.

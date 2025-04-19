@@ -1,0 +1,12 @@
+.icon-3{
+    filter: brightness(0) saturate(100%) invert(55%) sepia(30%) saturate(300%) hue-rotate(180deg);
+}
+.icon-1{
+    filter: none !important;
+}
+
+.main-nav .sobre{
+    border-top: 1px solid whitesmoke;
+    background-color: #24292e;
+
+}

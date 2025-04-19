@@ -55,5 +55,6 @@ Para visualizar localmente:
 * Explorar outras estilizações visuais com CSS para aprimorar o tema do VS Code.
 
 ## Agradecimentos
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100" />
 
 Agradeço a você por visitar meu repositório e conferir meu portfólio! Espero que goste da inspiração no Visual Studio Code. Sinta-se à vontade para entrar em contato caso tenha alguma dúvida ou sugestão.

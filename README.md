@@ -20,7 +20,7 @@ O site é construído utilizando HTML para a estrutura e CSS para o estilo, busc
 
 * **HTML:** Estrutura do conteúdo da página (`index.html`).
 * **CSS:** Estilos visuais, incluindo o tema escuro inspirado no VS Code, layout responsivo, efeito de hover nos ícones e a animação de fundo com flechas (`style` tag no `index.html`).
-  <br><br>
+  <br>
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 

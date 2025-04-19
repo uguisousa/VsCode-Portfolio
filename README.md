@@ -24,7 +24,7 @@ O site é construído utilizando HTML para a estrutura e CSS para o estilo, busc
 
 ## Como Visualizar
 
-Para visualizar este portfólio online, basta acessar o link do GitHub Pages: [https://uguisousa.github.io/VsCode-Portfolio/](https://uguisousa.github.io/VsCode-Portfolio/)
+Para visualizar este portfólio online, basta acessar o link: [https://vscodeport.netlify.app/](https://vscodeport.netlify.app/)
 
 Para visualizar localmente:
 

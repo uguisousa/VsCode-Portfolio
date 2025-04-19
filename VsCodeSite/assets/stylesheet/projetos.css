@@ -1,0 +1,77 @@
+.icon-2{
+    filter: brightness(0) saturate(100%) invert(55%) sepia(30%) saturate(300%) hue-rotate(180deg);
+}
+.icon-1{
+    filter: none !important;
+}
+
+.main-nav .projetos{
+    border-top: 1px solid whitesmoke;
+    background-color: #24292e;
+
+}
+
+.card {
+    width: 190px;
+    background: #1e2327;
+    padding: .4em;
+    border-radius: 6px;
+    transition: transform 0.3s ease;
+  }
+  
+  .card-image img {
+    background-color: #1e2327;
+    width: 100%;
+    height: 130px;
+    border-radius: 6px 6px 0 0;
+  }
+  
+  .card-image:hover {
+    transform: scale(0.98);
+  }
+  
+  .category a {
+    text-transform: uppercase;
+    font-size: 0.7em;
+    font-weight: 600;
+    color: aqua;
+    padding: 10px 7px 0;
+  }
+  
+  .heading {
+    font-weight: 600;
+    color: rgb(200, 204, 218);
+    padding: 7px;
+  }
+  
+  .author {
+    color: gray;
+    font-weight: 400;
+    font-size: 11px;
+    padding-top: 20px;
+  }
+  
+  .name {
+    font-weight: 600;
+  }
+  
+  .name:hover {
+    cursor: pointer;
+  }
+  
+  /* Responsivo com Grid */
+  
+  
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); /* Ajusta o número de colunas conforme a largura da tela */
+    gap: 20px; /* Espaçamento entre os cards */
+    padding: 0 10px;
+  }
+  
+  @media (max-width: 600px) {
+    .card {
+      width: 100%; /* Para telas menores, os cards ocupam 100% da largura */
+    }
+  }
+  

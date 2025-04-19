@@ -30,7 +30,8 @@ Para visualizar localmente:
 
 1.  Clone este repositório para sua máquina:
     ```bash
-    git clone [https://github.com/uguisousa/VsCode-Portfolio.git](https://github.com/uguisousa/VsCode-Portfolio.git)
+    git clone https://github.com/uguisousa/VsCode-Portfolio.git
+
     ```
 2.  Navegue até a pasta do repositório:
     ```bash
